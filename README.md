@@ -30,6 +30,11 @@ I am a Software Engineer focused on building resilient, high-throughput microser
 | ⚡ **[Distributed Rate Limiter](https://github.com/samilcastillo-sketch/distributed-rate-limiter)** | High-throughput API gateway throttling using **Token Bucket** & **Sliding Window Counter** algorithms (**+850,000 ops/sec**). | `Python` `AsyncIO` `REST` |
 | 📊 **[Real-Time Telemetry Hub](https://github.com/samilcastillo-sketch/realtime-telemetry-hub)** | Live low-latency metric streaming pipeline via **Server-Sent Events (SSE)** with a zero-framework responsive canvas dashboard. | `Node.js` `SSE` `HTML5 Canvas` |
 | 🔍 **[GitPulse Dev Metrics](https://github.com/samilcastillo-sketch/gitpulse-dev-metrics)** | Developer tooling CLI for commit velocity analysis, Conventional Changelog generation, and secret leak scanning. | `Python CLI` `DevOps` `Security` |
+| 📜 **[AI Contract Risk Analyzer](https://github.com/samilcastillo-sketch/ai-contract-analyzer)** | NLP contract risk analyzer flagging predatory clauses, one-sided liabilities, and auto-renewal traps in real-time. | `Python 3.13` `NLP` `Fullstack` |
+| 🔐 **[SecureVault E2EE](https://github.com/samilcastillo-sketch/secure-vault-e2ee)** | Zero-knowledge file transfer using client-side **AES-GCM-256**, URL `#hash` keys, and burn-on-read expiration. | `Web Crypto` `Node.js` `Security` |
+| 📝 **[SyncPad Live Editor](https://github.com/samilcastillo-sketch/syncpad-realtime-editor)** | Real-time collaborative Markdown editor with split-screen preview, live synchronization, and active user presence. | `JavaScript` `Event-Driven` `Live Sync` |
+| 📈 **[FinTech Portfolio Analytics](https://github.com/samilcastillo-sketch/fintech-portfolio-tracker)** | Quantitative asset tracking engine calculating NAV, unrealized P&L, **Sharpe Ratio**, and volatility modeling. | `Python 3.13` `Quant` `REST API` |
+| 🛡️ **[CyberScan Security Auditor](https://github.com/samilcastillo-sketch/cyberscan-security-auditor)** | Web security audit engine evaluating critical HTTP headers (HSTS, CSP, XFO) with A+ to F compliance scoring. | `Python 3.13` `AppSec` `Docker` |
 
 ---
 
