@@ -36,6 +36,7 @@ I am a Software Engineer focused on building resilient, high-throughput microser
 | 📈 **[FinTech Portfolio Analytics](https://github.com/samilcastillo-sketch/fintech-portfolio-tracker)** | Quantitative asset tracking engine calculating NAV, unrealized P&L, **Sharpe Ratio**, and volatility modeling. | `Python 3.13` `Quant` `REST API` |
 | 🛡️ **[CyberScan Security Auditor](https://github.com/samilcastillo-sketch/cyberscan-security-auditor)** | Web security audit engine evaluating critical HTTP headers (HSTS, CSP, XFO) with A+ to F compliance scoring. | `Python 3.13` `AppSec` `Docker` |
 | 🎨 **[Nexus Design System](https://github.com/samilcastillo-sketch/nexus-design-system)** | Responsive design architecture with **CSS Container Queries**, fluid clamp typography, and zero-CLS multi-theme engine. | `CSS3` `Container Queries` `Mobile-First` |
+| 🎬 **[ClipForge Social Automator](https://github.com/samilcastillo-sketch/clipforge-social-automation)** | Autonomous multi-platform video clip and web content pipeline with native **n8n workflow** for YouTube, TikTok & Facebook. | `n8n` `Python 3.13` `Social APIs` |
 
 ---
 
