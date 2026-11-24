@@ -38,6 +38,10 @@ I am a Software Engineer focused on building resilient, high-throughput microser
 | 🎨 **[Nexus Design System](https://github.com/samilcastillo-sketch/nexus-design-system)** | Responsive design architecture with **CSS Container Queries**, fluid clamp typography, and zero-CLS multi-theme engine. | `CSS3` `Container Queries` `Mobile-First` |
 | 🏛️ **[Enterprise Saga Ledger](https://github.com/samilcastillo-sketch/enterprise-saga-ledger)** | Order-to-Cash backend with **LIFO Saga Compensation**, **Event Sourcing/CQRS**, **Double-Entry GL**, Outbox/DLQ, and SHA-256 audit chain. | `Python 3.13` `SQLite WAL` `Saga / CQRS` |
 | 📋 **[ApexGrid Enterprise Ops](https://github.com/samilcastillo-sketch/enterprise-ops-grid)** | Virtualized **25,000+ row** FinOps & Procurement Data Grid with inline editing, **Undo/Redo stack**, saved views, and RFC-4180 CSV export. | `ES Modules` `Virtual Grid` `FinOps UI` |
+| 🔀 **[FlowOps Workflow Studio](https://github.com/samilcastillo-sketch/enterprise-workflow-studio)** | BPMN-lite visual approval workflow builder in SVG with **DAG cycle detection**, conditional path simulator, and Undo/Redo history. | `SVG Canvas` `DAG Linter` `ES Modules` |
+| 🛡️ **[SentinelIAM Governance](https://github.com/samilcastillo-sketch/enterprise-rbac-console)** | Enterprise **RBAC + ABAC** policy console with **SOX Separation of Duties (SoD)** conflict detection, CIDR/MFA simulator, and Blast-Radius Diff. | `RBAC / ABAC` `SOX Compliance` `Zero-Trust` |
+| 📡 **[PulseOps SRE Deck](https://github.com/samilcastillo-sketch/enterprise-observability-deck)** | SRE operations dashboard calculating **SLO Error-Budget Burn Rate**, P50/P95/P99 latency charts on HTML5 Canvas, and live regex log filtering. | `SRE / SLO` `HTML5 Canvas` `Telemetry` |
+| 💼 **[ScaleMeter Billing CPQ](https://github.com/samilcastillo-sketch/enterprise-billing-portal)** | B2B usage-based billing configurator featuring **graduated tier pricing**, mid-cycle seat proration, and deal-desk approval guardrails. | `FinOps CPQ` `Proration` `ES Modules` |
 
 ---
 
