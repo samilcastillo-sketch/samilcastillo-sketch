@@ -36,6 +36,8 @@ I am a Software Engineer focused on building resilient, high-throughput microser
 | 📈 **[FinTech Portfolio Analytics](https://github.com/samilcastillo-sketch/fintech-portfolio-tracker)** | Quantitative asset tracking engine calculating NAV, unrealized P&L, **Sharpe Ratio**, and volatility modeling. | `Python 3.13` `Quant` `REST API` |
 | 🛡️ **[CyberScan Security Auditor](https://github.com/samilcastillo-sketch/cyberscan-security-auditor)** | Web security audit engine evaluating critical HTTP headers (HSTS, CSP, XFO) with A+ to F compliance scoring. | `Python 3.13` `AppSec` `Docker` |
 | 🎨 **[Nexus Design System](https://github.com/samilcastillo-sketch/nexus-design-system)** | Responsive design architecture with **CSS Container Queries**, fluid clamp typography, and zero-CLS multi-theme engine. | `CSS3` `Container Queries` `Mobile-First` |
+| 🏛️ **[Enterprise Saga Ledger](https://github.com/samilcastillo-sketch/enterprise-saga-ledger)** | Order-to-Cash backend with **LIFO Saga Compensation**, **Event Sourcing/CQRS**, **Double-Entry GL**, Outbox/DLQ, and SHA-256 audit chain. | `Python 3.13` `SQLite WAL` `Saga / CQRS` |
+| 📋 **[ApexGrid Enterprise Ops](https://github.com/samilcastillo-sketch/enterprise-ops-grid)** | Virtualized **25,000+ row** FinOps & Procurement Data Grid with inline editing, **Undo/Redo stack**, saved views, and RFC-4180 CSV export. | `ES Modules` `Virtual Grid` `FinOps UI` |
 
 ---
 
